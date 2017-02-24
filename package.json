@@ -24,10 +24,6 @@
     "gulp-nsp": "^0.4.5",
     "gulp-coveralls": "^0.1.0"
   },
-  "scripts": {
-    "prepublish": "gulp prepublish",
-    "test": "gulp"
-  },
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.10.1",
